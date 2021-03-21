@@ -1,11 +1,7 @@
 # bootcamp_week_1
-Repository with my first week's activities and homework!
-
-**excel_proficiency**
-
-This folder includes different files with the activities done during the
-course of the week, where I demonstrate proficiency in Excel, as well as 
-reflecting new knowledge acquired during my classes. 
+Repository with my first week's homework!
+As an advanced Excel user, it was great to have the opportunity to put all
+of my skills to work during my first week at Data Bootcamp.
 
 **kickstarter_analysis**
 
